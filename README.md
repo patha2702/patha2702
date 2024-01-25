@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/patha2702" target="blank"><img src="https://img.shields.io/twitter/follow/patha2702?logo=twitter&style=for-the-badge" alt="patha2702" /></a> </p>
 
-- 🔭 I’m currently working on [annam-A food ordering site](https://annam-food.netlify.app/)
+- 🔭 I’m currently working on [sanchal]()
 
-- 🌱 I’m currently learning **reactjs**
+- 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 All of my projects are available at [https://rajendrapatha.netlify.app/](https://rajendrapatha.netlify.app/)
 
