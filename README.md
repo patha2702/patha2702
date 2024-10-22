@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/pathaboy" target="blank"><img src="https://img.shields.io/twitter/follow/pathaboy?logo=twitter&style=for-the-badge" alt="pathaboy" /></a> </p>
 
-- 🔭 I’m currently working on [testimonials-collect](https://www.testimonialscollect.me)
+- 🔭 I’m currently working on [testimonials-collect](https://testimonialscollect.me)
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [rajendrapatha.tech](https://www.rajendrapatha.tech)
+- 👨‍💻 All of my projects are available at [rajendrapatha.tech](https://rajendrapatha.tech)
 
 - 📫 How to reach me **rajendrapatha2702@gmail.com**
 - 
