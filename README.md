@@ -1,23 +1,19 @@
 <h1 align="center">Hi 👋, I'm Rajendra Patha</h1>
 <h3 align="center">Crafting Web Experiences: Full Stack Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/patha2702" target="blank"><img src="https://img.shields.io/twitter/follow/patha2702?logo=twitter&style=for-the-badge" alt="patha2702" /></a> </p>
+<p align="left"> <a href="https://twitter.com/pathaboy" target="blank"><img src="https://img.shields.io/twitter/follow/pathaboy?logo=twitter&style=for-the-badge" alt="pathaboy" /></a> </p>
 
-- 🔭 I’m currently working on [watch-it]()
+- 🔭 I’m currently working on [testimonials-collect](https://www.testimonialscollect.me)
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [https://rajendrapatha.netlify.app/](https://rajendrapatha.netlify.app/)
-
-- 💬 Ask me about **react, tailwindcss,**
+- 👨‍💻 All of my projects are available at [rajendrapatha.tech](https://www.rajendrapatha.tech)
 
 - 📫 How to reach me **rajendrapatha2702@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1f9pMxh6Lf_zOxeXBCQiDyT9VsRWGUUB8/view?usp=sharing](https://drive.google.com/file/d/1f9pMxh6Lf_zOxeXBCQiDyT9VsRWGUUB8/view?usp=sharing)
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/patha2702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="patha2702" height="30" width="40" /></a>
+<a href="https://twitter.com/pathaboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pathaboy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rajendrapatha2702/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajendrapatha2702/" height="30" width="40" /></a>
 </p>
 
